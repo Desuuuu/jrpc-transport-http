@@ -10,7 +10,7 @@ JSON-RPC HTTP transport for [`@desuuuu/jrpc-client`](https://www.npmjs.com/packa
 npm install @desuuuu/jrpc-transport-http
 ```
 
-Take a look at the [examples/](examples) for sample code.
+Take a look at the [examples](examples) for sample code.
 
 ## [Documentation](https://docs.desuuuu.com/jrpc-transport-http)
 
