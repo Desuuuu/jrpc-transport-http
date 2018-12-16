@@ -1,6 +1,6 @@
 {
   "name": "@desuuuu/jrpc-transport-http",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON-RPC HTTP transport for @desuuuu/jrpc-client",
   "main": "index.js",
   "dependencies": {
