@@ -1,7 +1,7 @@
 # jrpc-transport-http
 
 [![npm](https://img.shields.io/npm/v/@desuuuu/jrpc-transport-http.svg)](https://www.npmjs.com/package/@desuuuu/jrpc-transport-http)
-[![Size](https://img.shields.io/github/languages/code-size/desuuuu/jrpc-transport-http.svg)](/)
+[![Size](https://img.shields.io/github/languages/code-size/desuuuu/jrpc-transport-http.svg)](#)
 [![License](https://img.shields.io/github/license/desuuuu/jrpc-transport-http.svg)](LICENSE)
 
 JSON-RPC HTTP transport for [`@desuuuu/jrpc-client`](https://www.npmjs.com/package/@desuuuu/jrpc-client).
